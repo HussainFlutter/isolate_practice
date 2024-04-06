@@ -3,6 +3,7 @@ import 'dart:isolate';
 
 import 'package:flutter/material.dart';
 
+//Simple isolate
 class Example1 extends StatefulWidget {
   const Example1({super.key});
 

@@ -2,6 +2,8 @@ import 'dart:isolate';
 
 import 'package:flutter/material.dart';
 
+//Isolate with parameters
+
 class Example2 extends StatefulWidget {
   const Example2({super.key});
 
